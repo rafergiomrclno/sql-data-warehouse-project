@@ -16,7 +16,7 @@ Script Purpose:
 IF OBJECT_ID ('Table_name', 'U') IS NOT NULL 
 	DROP TABLE Table_name;
 
---Apply this before creating a new table
+-- Apply this before creating a new table
 
 
 
