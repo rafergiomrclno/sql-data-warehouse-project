@@ -1,6 +1,8 @@
 # Data Warehouse and Analytics Project 
 This project demonstrates a comprehensive data warehousing and analytics solution, from bulding a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
+Note: This project i implemented and modified from [DatawithBaraa]([url](https://www.youtube.com/@DataWithBaraa)). This project is for learning purposes to get to know about building modern data warehouse. 
+
 ---
 
 # Project Requirements
